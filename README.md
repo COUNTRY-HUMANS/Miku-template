@@ -4,4 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=35&duration=1000&pause=1000&color=30E5F7&background=FF93D300&center=true&multiline=true&width=435&height=100&lines=Virtual+singer...;...turned+internet+icon!" alt="Typing SVG" /></a>
 </p>
 
-WIP
+<img align="left" width="150" height="150" src="https://64.media.tumblr.com/979ad5743855849ce15f1fd5c15e5a7c/99b8931e1cf23bb0-f9/s100x200/6d6649fba10a3cdb81158bde24c7b1be0baf9c9d.gifv">
+(˵ •̀ ᴗ - ˵ ) ✧ <br> 
+<b> ME ME ME!</b> ᯓ★ <br>
+NAME ✮ Age , <br> 
+<i>Pro / Nouns ~ ♫</i> <br>
+↻ ◁ || ▷ ↺
