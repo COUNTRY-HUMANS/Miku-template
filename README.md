@@ -1,3 +1,4 @@
+i genuinely think this only works on my phone in portrait mode and then it breaks if anyone else looks at it
 <p align="center">
   <img src= https://64.media.tumblr.com/16ab4250df2c3c8123acf22afb834456/a141beeef0eba544-aa/s2048x3072/4480212d1a9389a3b71ff5fa1042fa16d29c88b3.pnj>
 <img src="https://64.media.tumblr.com/5403d717d7c14c64c63b2800f460ff05/518f1ae780c738ef-be/s2048x3072/0447d02103f32a215a8ec3332beacb4d9529fec8.pnj" alt="Header">
