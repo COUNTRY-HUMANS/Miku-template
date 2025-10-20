@@ -34,7 +34,7 @@
   ${{\color{VioletRed}\Large{\textsf{NO NO NO! ( ˶°ㅁ°)!!\ \}}}}\$  <br> 
 
 </div>
-♫ ~ dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <br>
+<p> ♫ ~ dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <br> </p>
     <!-- Replace the 'text' with info about people you do not want interacting  --> 
     <div align="center">
      
