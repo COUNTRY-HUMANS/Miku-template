@@ -1,8 +1,7 @@
+ <!-- template is made for laptop/desktop, but it's not completely broken on mobile. -->
 <p align="center">
   <img src= https://64.media.tumblr.com/16ab4250df2c3c8123acf22afb834456/a141beeef0eba544-aa/s2048x3072/4480212d1a9389a3b71ff5fa1042fa16d29c88b3.pnj>
-  <!-- Top gradient -->
   <img src="https://64.media.tumblr.com/5403d717d7c14c64c63b2800f460ff05/518f1ae780c738ef-be/s2048x3072/0447d02103f32a215a8ec3332beacb4d9529fec8.pnj">
-  <!-- header -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=1000&pause=1000&color=00B5BD&center=true&multiline=true&width=435&height=79&lines=Virtual+singer+.+.+.;.+.+.+Turned+internet+icon+!!!" alt="Typing SVG" /></a>
 
 <div align="center">
@@ -14,34 +13,42 @@
 </div>
 
   <img align="left" height="200" width="200" src="https://64.media.tumblr.com/e0ca94c6e3f4765cf570f062cf1aa17b/99b8931e1cf23bb0-f6/s100x200/484ed86312a0a1d8b0a99189d8dc41ff94dc46ec.gifv">
-  <!-- Happy miku -->
   
   ${{\color{VioletRed}\Large{\textsf{ME ME ME!    (˵ •̀ ᴗ - ˵ )\ \}}}}\$  <br> 
-    <!-- section title -->
-♫ ~ <b> dont feel forced to fill in the entire area! </b> text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
-    <!-- section text -->
-<br> ⠀⠀
+
+♫ ~ dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <br>
+    <!-- Replace the 'text' with info about yourself! -->
+\
     <p align="center">
-  ${{\color{VioletRed}\Large{\textsf{⇄⠀ ⠀⠀⠀ ⠀ ⠀◁◁⠀ ▐  ▌ ⠀▷▷ ⠀ ⠀ ⠀ ⠀ ⠀↻\ \}}}}\$  <br>
+  ${{\color{VioletRed}\Large{\textsf{⇄⠀⠀⠀◁◁⠀ ▐  ▌ ⠀▷▷  ⠀ ⠀↻\ \}}}}\$  <br>
 
    
 </p>
 
 <img src=https://64.media.tumblr.com/494f43a77fc511198310c7ac75828a3c/a141beeef0eba544-8a/s2048x3072/e3e479332f82c0b763146556ecf8b0e258a63fa9.pnj>
 
-<img align="right" width="150" height="150" src="https://64.media.tumblr.com/ed947aba21eb2be9e5379ed370107b93/99b8931e1cf23bb0-d0/s100x200/f9cbadfd23faf98f3be237943c5340c298e80ea2.gifv">
-<p align="left">
-( ˶°ㅁ°)!! <br>
-<b>DNI DNI DNI!</b> ☆ <br>
-stuff stuff stuff stuff stuff stuff stuff stuff stuff stuff stuff stuff stuff stuff stuff stuff <br>
+<img align="right" width="200" height="200" src="https://64.media.tumblr.com/ed947aba21eb2be9e5379ed370107b93/99b8931e1cf23bb0-d0/s100x200/f9cbadfd23faf98f3be237943c5340c298e80ea2.gifv">
+
+  <p align="left">
+
+  ${{\color{VioletRed}\Large{\textsf{NO NO NO! ( ˶°ㅁ°)!!\ \}}}}\$  <br> 
+
+</p>
+♫ ~ dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <br>
+    <!-- Replace the 'text' with info about people you do not want interacting  -->
+
+  ${{\color{VioletRed}\Large{\textsf{0:24- ─●──────── -2:56\ \}}}}\$  <br>
+
+   
 </p>
 <img src=https://64.media.tumblr.com/494f43a77fc511198310c7ac75828a3c/a141beeef0eba544-8a/s2048x3072/e3e479332f82c0b763146556ecf8b0e258a63fa9.pnj>
 
 <img align="left" width="150" height="150" src="https://64.media.tumblr.com/e0ca94c6e3f4765cf570f062cf1aa17b/99b8931e1cf23bb0-f6/s100x200/484ed86312a0a1d8b0a99189d8dc41ff94dc46ec.gifv">
+<div align="left">
 ( ˶ˆᗜˆ˵ ) <br>
 <b>YAY YAY YAY!</b> <br>
 other info / fandoms / friends <br> stuff stuff stuff stuff stuff stuff stuff stuff <br>
-
+</div>
 
 
 
