@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=00b5bd&style=plastic&label=MikuViews!) <!-- this is a profile view counter!make sure to edit "YOUR-GITHUB-USERNAME"! --> 
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=00b5bd&style=plastic&label=MikuViews!) <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! --> 
   <img src="https://64.media.tumblr.com/87fd7110c697a45ae7a9d5a9e1b0923c/92b6402e4022ca16-c7/s75x75_c1/7192d36bd8977a46b434e65ac1931ed81fa62036.gifv">
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?color=00b5bd&style=plastic&abbreviated=false&label=MikuFans!"/> <!-- this is a follower counter! make sure to edit "YOUR-GITHUB-USERNAME"! -->
 
