@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<sub>Template by [eveleen](https://github.com/COUNTRY-HUMANS)
+<sub>Template by [Eveleen](https://github.com/COUNTRY-HUMANS)
  
 [![credit](https://64.media.tumblr.com/9084775267f845a1366928f5328c31bb/34c4e2eea20083af-cc/s75x75_c1/db6a1ba2ef6a0dd6d78c236338edb81d327ec056.gifv)](https://www.tumblr.com/miceontheweb/720725585660411904/hatsune-miku-favicons)
 [![credit](https://64.media.tumblr.com/9084775267f845a1366928f5328c31bb/34c4e2eea20083af-cc/s75x75_c1/db6a1ba2ef6a0dd6d78c236338edb81d327ec056.gifv)](https://www.tumblr.com/thehatsunemiku/765536701736255488/blog-is-now-inactive?source=share)
